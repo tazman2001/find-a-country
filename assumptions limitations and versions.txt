@@ -1,0 +1,22 @@
+Assumptions:
+
+I have presumed that we only want to store the country that has been searched for.
+
+I have also presumed that we do not want them to submit anything until a result has been found.
+
+
+Limitations:
+
+I ran out of time to do the full name search. I would have put in a checkbox and added the data in the input boxes as it currently does.
+
+I also didn't have time to fix the json that comes back in the input boxes for currency and langauges.
+
+I also didn't have time to alter the system to there is a display box as you could currently alter the values as they appear and enter the wrong data in the db.
+
+The idea was to have a display area that shows the data so the input boxes would not affect it, when it goes into the db.
+
+
+
+
+php version:
+7.3.7
